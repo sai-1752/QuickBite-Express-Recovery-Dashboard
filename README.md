@@ -49,6 +49,15 @@ QuickBite launched a major recovery budget, improved food safety protocols, and 
    - Enable timely interventions for quality improvement.
 
 ---
+## ⚡ Challenges Faced
+
+- **Data Quality & Integration:** Cleaning and harmonizing large, multi-table datasets from the food delivery domain, resolving missing delivery partner IDs, correcting data inconsistencies, and handling deleted or migrated partner records.
+- **Crisis Signal Detection:** Differentiating behavioral shifts due to social media incident from normal seasonal fluctuations, accurately segmenting the business phases (pre-crisis, crisis, recovery).
+- **Sentiment Analysis:** Quantifying customer sentiment and review themes at scale, especially with highly negative feedback spikes following the crisis.
+- **Recovery Metrics Selection:** Identifying meaningful KPIs (e.g., churn rates, recovery trends, restaurant health) that directly link to actionable business strategies, while avoiding vanity metrics.
+- **Visualization Design:** Creating self-explanatory, visually intuitive dashboards usable by both technical and non-technical stakeholders, including clear separation of phases and color coding for acquisition channels.
+- **Operational Insights:** Assessing delivery performance (average delivery time and on-time rates), handling possible outliers and operational bottlenecks embedded in the dataset.
+- **Stakeholder Communication:** Translating complex data findings into simple, actionable recommendations for leadership, ensuring clarity and relevance for high-level decision making.
 
 ## 📊 Dashboard Insights
 
