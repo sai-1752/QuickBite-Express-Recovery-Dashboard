@@ -62,7 +62,7 @@ QuickBite launched a major recovery budget, improved food safety protocols, and 
 ---
 ## 📊 Dashboard Insights
 
-![Dashboard Screenshot 1](images/page_1.jpg)
+![Dashboard Screenshot 1](images\page_1.jpg)
 
 ### Key Metrics Highlighted:
 - **Total Revenue:** ₹48.56M
@@ -81,7 +81,7 @@ QuickBite launched a major recovery budget, improved food safety protocols, and 
 - **Restaurant Health:** KPI tables segment partner status for quick action.
 - **Sentiment Analysis:** Major issues—food safety, delivery delays, packaging, hygiene.
 
-![Dashboard Screenshot 2](images/page_2.jpg)
+![Dashboard Screenshot 2](images\page_2.jpg)
 
 ---
 
