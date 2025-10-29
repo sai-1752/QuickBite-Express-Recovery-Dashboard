@@ -52,7 +52,7 @@ QuickBite launched a major recovery budget, improved food safety protocols, and 
 ## ⚡ Challenges Faced
 
 - **Data Quality & Integration:** Cleaning and harmonizing large, multi-table datasets from the food delivery domain, resolving missing delivery partner IDs, correcting data inconsistencies, and handling deleted or migrated partner records.
-- **Crisis Signal Detection:** Differentiating behavioral shifts due to social media incident from normal seasonal fluctuations, accurately segmenting the business phases (pre-crisis, crisis, recovery).
+- **Crisis Signal Detection:** Differentiating behavioral shifts due to social media incidents from normal seasonal fluctuations, accurately segmenting the business phases (pre-crisis, crisis, recovery).
 - **Sentiment Analysis:** Quantifying customer sentiment and review themes at scale, especially with highly negative feedback spikes following the crisis.
 - **Recovery Metrics Selection:** Identifying meaningful KPIs (e.g., churn rates, recovery trends, restaurant health) that directly link to actionable business strategies, while avoiding vanity metrics.
 - **Visualization Design:** Creating self-explanatory, visually intuitive dashboards usable by both technical and non-technical stakeholders, including clear separation of phases and color coding for acquisition channels.
@@ -62,7 +62,7 @@ QuickBite launched a major recovery budget, improved food safety protocols, and 
 ---
 ## 📊 Dashboard Insights
 
-![Dashboard Screenshot 1](Screenshot-2025-10-29-113415.jpg)
+![Dashboard Screenshot 1](images/Screenshot-2025-10-29-113415.jpg)
 
 ### Key Metrics Highlighted:
 - **Total Revenue:** ₹48.56M
@@ -81,7 +81,7 @@ QuickBite launched a major recovery budget, improved food safety protocols, and 
 - **Restaurant Health:** KPI tables segment partner status for quick action.
 - **Sentiment Analysis:** Major issues—food safety, delivery delays, packaging, hygiene.
 
-![Dashboard Screenshot 2](Screenshot-2025-10-29-113430.jpg)
+![Dashboard Screenshot 2](images/Screenshot-2025-10-29-113430.jpg)
 
 ---
 
