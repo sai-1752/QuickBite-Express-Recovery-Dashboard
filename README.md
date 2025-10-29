@@ -59,6 +59,7 @@ QuickBite launched a major recovery budget, improved food safety protocols, and 
 - **Operational Insights:** Assessing delivery performance (average delivery time and on-time rates), handling possible outliers and operational bottlenecks embedded in the dataset.
 - **Stakeholder Communication:** Translating complex data findings into simple, actionable recommendations for leadership, ensuring clarity and relevance for high-level decision making.
 
+---
 ## 📊 Dashboard Insights
 
 ![Dashboard Screenshot 1](Screenshot-2025-10-29-113415.jpg)
